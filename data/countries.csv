@@ -1,217 +1,215 @@
-﻿name_short,iso,who_region,income_group,covax_status,csc_status
-Seychelles,SYC,AFR,HIC,No,
-Antigua & Barbuda,ATG,AMR,HIC,SF,
-Aruba,ABW,AMR,HIC,,
-Bahamas,BHS,AMR,HIC,SF,
-Barbados,BRB,AMR,HIC,SF,
-Bermuda,BMU,AMR,HIC,,
-British Virgin Islands,VGB,AMR,HIC,,
-Canada,CAN,AMR,HIC,SF,
-Cayman Islands,CYM,AMR,HIC,,
-Chile,CHL,AMR,HIC,SF,
-Curaçao,CUW,AMR,HIC,,
-Puerto Rico,PRI,AMR,HIC,,
-Saint Kitts & Nevis,KNA,AMR,HIC,SF,
-Sint Maarten,SXM,AMR,HIC,,
-Trinidad & Tobago,TTO,AMR,HIC,SF,
-Turks & Caicos Islands,TCA,AMR,HIC,,
-Uruguay,URY,AMR,HIC,SF,
-United States of America,USA,AMR,HIC,No,
-Bahrain,BHR,EMR,HIC,SF,
-Kuwait,KWT,EMR,HIC,SF,
-Oman,OMN,EMR,HIC,SF,
-Qatar,QAT,EMR,HIC,SF,
-Saudi Arabia,SAU,EMR,HIC,SF,
-UAE,ARE,EMR,HIC,SF,
-Andorra,AND,EUR,HIC,SF,
-Austria,AUT,EUR,HIC,No,
-Belgium,BEL,EUR,HIC,No,
-Croatia,HRV,EUR,HIC,No,
-Cyprus,CYP,EUR,HIC,No,
-Czechia,CZE,EUR,HIC,No,
-Denmark,DNK,EUR,HIC,No,
-Estonia,EST,EUR,HIC,No,
-Finland,FIN,EUR,HIC,No,
-France,FRA,EUR,HIC,No,
-Germany,DEU,EUR,HIC,No,
-Greece,GRC,EUR,HIC,No,
-Hungary,HUN,EUR,HIC,No,
-Iceland,ISL,EUR,HIC,No,
-Ireland,IRL,EUR,HIC,No,
-Israel,ISR,EUR,HIC,SF,
-Italy,ITA,EUR,HIC,No,
-Latvia,LVA,EUR,HIC,No,
-Lithuania,LTU,EUR,HIC,No,
-Luxembourg,LUX,EUR,HIC,No,
-Malta,MLT,EUR,HIC,No,
-Monaco,MCO,EUR,HIC,SF,
-Netherlands,NLD,EUR,HIC,No,
-Norway,NOR,EUR,HIC,No,
-Poland,POL,EUR,HIC,No,
-Portugal,PRT,EUR,HIC,No,
-San Marino,SMR,EUR,HIC,SF,
-Slovakia,SVK,EUR,HIC,No,
-Slovenia,SVN,EUR,HIC,No,
-Spain,ESP,EUR,HIC,No,
-Sweden,SWE,EUR,HIC,No,
-Switzerland,CHE,EUR,HIC,SF,
-United Kingdom,GBR,EUR,HIC,SF,
-Australia,AUS,WPR,HIC,SF,
-Brunei,BRN,WPR,HIC,SF,
-Northern Mariana Islands,MNP,WPR,HIC,,
-French Polynesia,PYF,WPR,HIC,,
-Guam,GUM,WPR,HIC,,
-Hong Kong,HKG,WPR,HIC,,
-Japan,JPN,WPR,HIC,SF,
-Macao,MAC,WPR,HIC,,
-Nauru,NRU,WPR,HIC,SF,
-New Caledonia,NCL,WPR,HIC,,
-New Zealand,NZL,WPR,HIC,SF,
-Palau,PLW,WPR,HIC,SF,
-Republic of Korea,KOR,WPR,HIC,SF,
-Singapore,SGP,WPR,HIC,SF,
-Burkina Faso,BFA,AFR,LIC,AMC,Concerted support country
-Burundi,BDI,AFR,LIC,AMC,Concerted support country
-Central African Republic,CAF,AFR,LIC,AMC,Concerted support country
-Chad,TCD,AFR,LIC,AMC,Concerted support country
-Democratic Republic of the Congo,COD,AFR,LIC,AMC,Concerted support country
-Ethiopia,ETH,AFR,LIC,AMC,Concerted support country
-Gambia,GMB,AFR,LIC,AMC,Concerted support country
-Guinea,GIN,AFR,LIC,AMC,Concerted support country
-Guinea-Bissau,GNB,AFR,LIC,AMC,Concerted support country
-Liberia,LBR,AFR,LIC,AMC,
-Madagascar,MDG,AFR,LIC,AMC,Concerted support country
-Malawi,MWI,AFR,LIC,AMC,Concerted support country
-Mali,MLI,AFR,LIC,AMC,Concerted support country
-Mozambique,MOZ,AFR,LIC,AMC,
-Niger,NER,AFR,LIC,AMC,Concerted support country
-Rwanda,RWA,AFR,LIC,AMC,
-Sierra Leone,SLE,AFR,LIC,AMC,Concerted support country
-South Sudan,SSD,AFR,LIC,AMC,Concerted support country
-Togo,TGO,AFR,LIC,AMC,
-Uganda,UGA,AFR,LIC,AMC,Concerted support country
-Afghanistan,AFG,EMR,LIC,AMC,Concerted support country
-Somalia,SOM,EMR,LIC,AMC,Concerted support country
-Sudan,SDN,EMR,LIC,AMC,Concerted support country
-Syria,SYR,EMR,LIC,AMC,Concerted support country
-Yemen,YEM,EMR,LIC,AMC,Concerted support country
-Algeria,DZA,AFR,LMIC,AMC,
-Angola,AGO,AFR,LMIC,AMC,
-Benin,BEN,AFR,LMIC,AMC,
-Cabo Verde,CPV,AFR,LMIC,AMC,
-Cameroon,CMR,AFR,LMIC,AMC,Concerted support country
-Comoros,COM,AFR,LMIC,AMC,
-Congo,COG,AFR,LMIC,AMC,
-Côte d'Ivoire,CIV,AFR,LMIC,AMC,Concerted support country
-Eswatini,SWZ,AFR,LMIC,AMC,
-Ghana,GHA,AFR,LMIC,AMC,Concerted support country
-Kenya,KEN,AFR,LMIC,AMC,Concerted support country
-Lesotho,LSO,AFR,LMIC,AMC,
-Mauritania,MRT,AFR,LMIC,AMC,
-Nigeria,NGA,AFR,LMIC,AMC,Concerted support country
-Sao Tome & Principe,STP,AFR,LMIC,AMC,
-Senegal,SEN,AFR,LMIC,AMC,Concerted support country
-Tanzania,TZA,AFR,LMIC,AMC,Concerted support country
-Zambia,ZMB,AFR,LMIC,AMC,Concerted support country
-Zimbabwe,ZWE,AFR,LMIC,AMC,
-Belize,BLZ,AMR,LMIC,SF,
-Bolivia,BOL,AMR,LMIC,AMC,
-El Salvador,SLV,AMR,LMIC,AMC,
-Haiti,HTI,AMR,LMIC,AMC,Concerted support country
-Honduras,HND,AMR,LMIC,AMC,
-Nicaragua,NIC,AMR,LMIC,AMC,
-Djibouti,DJI,EMR,LMIC,AMC,Concerted support country
-Egypt,EGY,EMR,LMIC,AMC,
-Iran,IRN,EMR,LMIC,SF,
-Morocco,MAR,EMR,LMIC,AMC,
-Pakistan,PAK,EMR,LMIC,AMC,
-Tunisia,TUN,EMR,LMIC,AMC,
-West Bank and Gaza,PSE,EMR,LMIC,AMC,
-Kyrgyzstan,KGZ,EUR,LMIC,AMC,
-Tajikistan,TJK,EUR,LMIC,AMC,
-Ukraine,UKR,EUR,LMIC,AMC,
-Uzbekistan,UZB,EUR,LMIC,AMC,
-Bangladesh,BGD,SEAR,LMIC,AMC,
-Bhutan,BTN,SEAR,LMIC,AMC,
-India,IND,SEAR,LMIC,AMC,
-Indonesia,IDN,SEAR,LMIC,AMC,
-Myanmar,MMR,SEAR,LMIC,AMC,
-Nepal,NPL,SEAR,LMIC,AMC,
-Sri Lanka,LKA,SEAR,LMIC,AMC,
-Timor-Leste,TLS,SEAR,LMIC,AMC,
-Cambodia,KHM,WPR,LMIC,AMC,
-Kiribati,KIR,WPR,LMIC,AMC,
-Laos,LAO,WPR,LMIC,AMC,
-Micronesia,FSM,WPR,LMIC,AMC,
-Mongolia,MNG,WPR,LMIC,AMC,
-Papua New Guinea,PNG,WPR,LMIC,AMC,Concerted support country
-Philippines,PHL,WPR,LMIC,AMC,
-Samoa,WSM,WPR,LMIC,AMC,
-Solomon Islands,SLB,WPR,LMIC,AMC,Concerted support country
-Vanuatu,VUT,WPR,LMIC,AMC,
-VietNam,VNM,WPR,LMIC,AMC,
-Saint Helena,SHN,AFR,Other,,
-Anguilla,AIA,AMR,Other,,
-French Guiana,GUF,AMR,Other,,
-Guadeloupe,GLP,AMR,Other,,
-Montserrat,MSR,AMR,Other,,
-Cook Islands,COK,WPR,Other,No,
-Niue,NIU,WPR,Other,No,
-Tokelau,TKL,WPR,Other,,
-Wallis & Futuna Islands,WLF,WPR,Other,,
-Botswana,BWA,AFR,UMIC,SF,
-Equatorial Guinea,GNQ,AFR,UMIC,No,
-Gabon,GAB,AFR,UMIC,No,Concerted support country
-Mauritius,MUS,AFR,UMIC,SF,
-Namibia,NAM,AFR,UMIC,No,
-South Africa,ZAF,AFR,UMIC,No,
-Argentina,ARG,AMR,UMIC,SF,
-Brazil,BRA,AMR,UMIC,SF,
-Colombia,COL,AMR,UMIC,SF,
-Costa Rica,CRI,AMR,UMIC,SF,
-Cuba,CUB,AMR,UMIC,No,
-Dominica,DMA,AMR,UMIC,AMC,
-Dominican Republic,DOM,AMR,UMIC,SF,
-Ecuador,ECU,AMR,UMIC,SF,
-Grenada,GRD,AMR,UMIC,AMC,
-Guatemala,GTM,AMR,UMIC,SF,
-Guyana,GUY,AMR,UMIC,AMC,
-Jamaica,JAM,AMR,UMIC,SF,
-Mexico,MEX,AMR,UMIC,SF,
-Panama,PAN,AMR,UMIC,SF,
-Paraguay,PRY,AMR,UMIC,SF,
-Peru,PER,AMR,UMIC,SF,
-Saint Lucia,LCA,AMR,UMIC,AMC,
-Saint Vincent & The Grenadines,VCT,AMR,UMIC,AMC,
-Suriname,SUR,AMR,UMIC,SF,
-Venezuela,VEN,AMR,UMIC,SF,
-Iraq,IRQ,EMR,UMIC,SF,
-Jordan,JOR,EMR,UMIC,SF,
-Lebanon,LBN,EMR,UMIC,SF,
-Libya,LBY,EMR,UMIC,SF,
-Albania,ALB,EUR,UMIC,SF,
-Armenia,ARM,EUR,UMIC,SF,
-Azerbaijan,AZE,EUR,UMIC,SF,
-Belarus,BLR,EUR,UMIC,No,
-Bosnia & Herzegovina,BIH,EUR,UMIC,SF,
-Bulgaria,BGR,EUR,UMIC,No,
-Georgia,GEO,EUR,UMIC,SF,
-Kazakhstan,KAZ,EUR,UMIC,No,
-Kosovo,XKX,EUR,UMIC,AMC,
-Montenegro,MNE,EUR,UMIC,SF,
-North Macedonia,MKD,EUR,UMIC,No,
-Republic of Moldova,MDA,EUR,UMIC,AMC,
-Romania,ROU,EUR,UMIC,No,
-Russian Federation,RUS,EUR,UMIC,No,
-Serbia,SRB,EUR,UMIC,SF,
-Turkey,TUR,EUR,UMIC,No,
-Turkmenistan,TKM,EUR,UMIC,No,
-Maldives,MDV,SEAR,UMIC,AMC,
-Thailand,THA,SEAR,UMIC,No,
-American Samoa,ASM,WPR,UMIC,,
-China,CHN,WPR,UMIC,SF,
-Fiji,FJI,WPR,UMIC,AMC,
-Malaysia,MYS,WPR,UMIC,No,
-Marshall Islands,MHL,WPR,UMIC,AMC,
-Tonga,TON,WPR,UMIC,AMC,
-Tuvalu,TUV,WPR,UMIC,AMC,
+name_short,iso,who_region,income_group,covax_status,csc_status,who_status,pop,pop_hcw,pop_older
+Afghanistan,AFG,EMR,LIC,AMC,CSC,member,38928346.0,997519.0,3610145.0
+Albania,ALB,EUR,UMIC,SF,,member,2877800.0,36791.0,628565.0
+Algeria,DZA,AFR,LMIC,AMC,,member,43851044.0,387079.0,8430581.0
+American Samoa,ASM,WPR,UMIC,,,territory,55197.0,,
+Andorra,AND,EUR,HIC,SF,,member,77265.0,3893.0,18469.0
+Angola,AGO,AFR,LMIC,AMC,,member,32866272.0,251284.0,2768485.0
+Anguilla,AIA,AMR,Other,,,territory,15002.0,,
+Antigua & Barbuda,ATG,AMR,HIC,SF,,member,97929.0,4896.0,14416.0
+Argentina,ARG,AMR,UMIC,SF,,member,45195774.0,1159948.0,7153405.0
+Armenia,ARM,EUR,UMIC,SF,,member,2963234.0,51461.0,564771.0
+Aruba,ABW,AMR,HIC,,,territory,106766.0,,24177.0
+Australia,AUS,WPR,HIC,SF,,member,25499884.0,1792626.0,4255305.0
+Austria,AUT,EUR,HIC,No,,member,8901064.0,475869.0,2366793.0
+Azerbaijan,AZE,EUR,UMIC,SF,,member,10139175.0,189417.0,1254698.0
+Bahamas,BHS,AMR,HIC,SF,,member,393244.0,11955.0,50458.0
+Bahrain,BHR,EMR,HIC,SF,,member,1701575.0,5071.0,98872.0
+Bangladesh,BGD,SEAR,LMIC,AMC,,member,164689383.0,556201.0,13696840.0
+Barbados,BRB,AMR,HIC,SF,,member,287375.0,7508.0,68331.0
+Belarus,BLR,EUR,UMIC,No,,member,9449321.0,385996.0,2195420.0
+Belgium,BEL,EUR,HIC,No,,member,11522440.0,727440.0,3025414.0
+Belize,BLZ,AMR,LMIC,SF,,member,397628.0,4413.0,31947.0
+Benin,BEN,AFR,LMIC,AMC,,member,12123200.0,48797.0,1310087.0
+Bermuda,BMU,AMR,HIC,,,territory,62273.0,,
+Bhutan,BTN,SEAR,LMIC,AMC,,member,771608.0,12228.0,71223.0
+Bolivia,BOL,AMR,LMIC,AMC,,member,11673021.0,132813.0,1245333.0
+Bosnia & Herzegovina,BIH,EUR,UMIC,SF,,member,3280815.0,55710.0,848963.0
+Botswana,BWA,AFR,UMIC,SF,,member,2351627.0,23610.0,171500.0
+Brazil,BRA,AMR,UMIC,SF,,member,212559417.0,4831725.0,31043870.0
+British Virgin Islands,VGB,AMR,HIC,,,territory,30237.0,,
+Brunei,BRN,WPR,HIC,SF,,member,437479.0,6106.0,44365.0
+Bulgaria,BGR,EUR,UMIC,No,,member,6951482.0,164649.0,1959779.0
+Burkina Faso,BFA,AFR,LIC,AMC,CSC,member,20903273.0,56988.0,1864749.0
+Burundi,BDI,AFR,LIC,AMC,CSC,member,11890784.0,7888.0,1320725.0
+Cabo Verde,CPV,AFR,LMIC,AMC,,member,555987.0,4643.0,93080.0
+Cambodia,KHM,WPR,LMIC,AMC,,member,16718965.0,57786.0,1323073.0
+Cameroon,CMR,AFR,LMIC,AMC,CSC,member,26545863.0,186521.0,2512864.0
+Canada,CAN,AMR,HIC,SF,,member,37742154.0,2629087.0,9678405.0
+CAR,CAF,AFR,LIC,AMC,CSC,member,4829767.0,8672.0,458019.0
+Cayman Islands,CYM,AMR,HIC,,,territory,65720.0,,
+Chad,TCD,AFR,LIC,AMC,CSC,member,16425864.0,31500.0,424973.0
+Chile,CHL,AMR,HIC,SF,,member,19116201.0,505945.0,3449362.0
+China,CHN,WPR,UMIC,SF,,member,1471286879.0,18032270.0,258370873.0
+Northern Mariana Islands,MNP,WPR,HIC,,,territory,57557.0,,
+Colombia,COL,AMR,UMIC,SF,,member,50882891.0,1047323.0,6985756.0
+Comoros,COM,AFR,LMIC,AMC,,member,869601.0,2334.0,98646.0
+Congo,COG,AFR,LMIC,AMC,,member,5518087.0,22903.0,604714.0
+Cook Islands,COK,WPR,Other,No,,member,17564.0,352.0,808.0
+Costa Rica,CRI,AMR,UMIC,SF,,member,5094118.0,85457.0,801922.0
+Côte d'Ivoire,CIV,AFR,LMIC,AMC,CSC,member,26378274.0,110740.0,2643443.0
+Croatia,HRV,EUR,HIC,No,,member,4058165.0,109592.0,1171841.0
+Cuba,CUB,AMR,UMIC,No,,member,11326616.0,576167.0,2487080.0
+Curaçao,CUW,AMR,HIC,,,territory,164093.0,,41471.0
+Cyprus,CYP,EUR,HIC,No,,member,888005.0,29016.0,245598.0
+Czechia,CZE,EUR,HIC,No,,member,10693939.0,376756.0,2825598.0
+Denmark,DNK,EUR,HIC,No,,member,5822763.0,519988.0,1534340.0
+Djibouti,DJI,EMR,LMIC,AMC,CSC,member,988000.0,7124.0,156816.0
+Dominica,DMA,AMR,UMIC,AMC,,member,71991.0,1440.0,11663.0
+Dominican Republic,DOM,AMR,UMIC,SF,,member,10847910.0,180250.0,1251287.0
+Democratic Republic of Congo,COD,AFR,LIC,AMC,CSC,member,89561403.0,321770.0,6322794.0
+Ecuador,ECU,AMR,UMIC,SF,,member,17643054.0,208611.0,2018072.0
+Egypt,EGY,EMR,LMIC,AMC,,member,102334404.0,815267.0,8717911.0
+El Salvador,SLV,AMR,LMIC,AMC,,member,6486205.0,67857.0,800876.0
+Equatorial Guinea,GNQ,AFR,UMIC,No,,member,1402985.0,12930.0,54141.0
+Estonia,EST,EUR,HIC,No,,member,1328976.0,40870.0,360416.0
+Eswatini,SWZ,AFR,LMIC,AMC,,member,1160164.0,14530.0,120384.0
+Ethiopia,ETH,AFR,LIC,AMC,CSC,member,114963588.0,416370.0,4201564.0
+Fiji,FJI,WPR,UMIC,AMC,,member,896445.0,3851.0,89863.0
+Finland,FIN,EUR,HIC,No,,member,5525292.0,425664.0,1630214.0
+France,FRA,EUR,HIC,No,,member,65039359.0,4152645.0,17797436.0
+French Guiana,GUF,AMR,Other,,,territory,298682.0,,27967.0
+French Polynesia,PYF,WPR,HIC,,,territory,280908.0,,39749.0
+Gabon,GAB,AFR,UMIC,No,CSC,member,2225734.0,19096.0,264199.0
+Gambia,GMB,AFR,LIC,AMC,CSC,member,2416668.0,5634.0,218168.0
+Georgia,GEO,EUR,UMIC,SF,,member,3989175.0,75607.0,871852.0
+Germany,DEU,EUR,HIC,No,,member,83166711.0,5584434.0,24440892.0
+Ghana,GHA,AFR,LMIC,AMC,CSC,member,31072940.0,404780.0,1724221.0
+Greece,GRC,EUR,HIC,No,,member,10718565.0,247791.0,3029473.0
+Grenada,GRD,AMR,UMIC,AMC,,member,112523.0,2252.0,17160.0
+Guadeloupe,GLP,AMR,Other,,,territory,400124.0,,107188.0
+Guam,GUM,WPR,HIC,,,territory,168775.0,,46970.0
+Guatemala,GTM,AMR,UMIC,SF,,member,17915568.0,125971.0,1340379.0
+Guinea,GIN,AFR,LIC,AMC,CSC,member,13132795.0,15946.0,1263523.0
+Guinea-Bissau,GNB,AFR,LIC,AMC,CSC,member,1968001.0,6139.0,187418.0
+Guyana,GUY,AMR,UMIC,AMC,,member,786552.0,7612.0,88929.0
+Haiti,HTI,AMR,LMIC,AMC,CSC,member,11402528.0,58078.0,609491.0
+Honduras,HND,AMR,LMIC,AMC,,member,9904607.0,80819.0,760007.0
+Hungary,HUN,EUR,HIC,No,,member,9769526.0,312315.0,2590872.0
+Iceland,ISL,EUR,HIC,No,,member,364134.0,22968.0,75860.0
+India,IND,SEAR,LMIC,AMC,,member,1380004385.0,5824562.0,144322343.0
+Indonesia,IDN,SEAR,LMIC,AMC,,member,273523615.0,1807960.0,28803892.0
+Iran,IRN,EMR,LMIC,SF,,member,83992949.0,818176.0,9005131.0
+Iraq,IRQ,EMR,UMIC,SF,,member,40222493.0,366065.0,4609279.0
+Ireland,IRL,EUR,HIC,No,,member,4964440.0,288206.0,997954.0
+Israel,ISR,EUR,HIC,SF,,member,8655541.0,475286.0,1456042.0
+Italy,ITA,EUR,HIC,No,,member,59641488.0,1931331.0,18317015.0
+Jamaica,JAM,AMR,UMIC,SF,,member,2961167.0,38202.0,404517.0
+Japan,JPN,WPR,HIC,SF,,member,126476461.0,10909282.0,36174100.0
+Jordan,JOR,EMR,UMIC,SF,,member,10203134.0,99108.0,415130.0
+Kazakhstan,KAZ,EUR,UMIC,No,,member,18776707.0,482244.0,2399336.0
+Kenya,KEN,AFR,LMIC,AMC,CSC,member,53771296.0,472310.0,5293329.0
+Kiribati,KIR,WPR,LMIC,AMC,,member,119449.0,2428.0,8507.0
+Kosovo,XKX,EUR,UMIC,AMC,,territory,1795666.0,,
+Kuwait,KWT,EMR,HIC,SF,,member,4270571.0,71572.0,305603.0
+Kyrgyzstan,KGZ,EUR,LMIC,AMC,,member,6524191.0,94969.0,559009.0
+Laos,LAO,WPR,LMIC,AMC,,member,7275560.0,17378.0,513278.0
+Latvia,LVA,EUR,HIC,No,,member,1907675.0,56591.0,523066.0
+Lebanon,LBN,EMR,UMIC,SF,,member,6825445.0,82801.0,1138313.0
+Lesotho,LSO,AFR,LMIC,AMC,,member,2142249.0,16143.0,306520.0
+Liberia,LBR,AFR,LIC,AMC,,member,5057681.0,36001.0,567958.0
+Libya,LBY,EMR,UMIC,SF,,member,6871292.0,74168.0,495173.0
+Lithuania,LTU,EUR,HIC,No,,member,2794090.0,92625.0,760356.0
+Luxembourg,LUX,EUR,HIC,No,,member,626108.0,31975.0,129141.0
+Madagascar,MDG,AFR,LIC,AMC,CSC,member,27691018.0,80166.0,3039903.0
+Malawi,MWI,AFR,LIC,AMC,CSC,member,19129952.0,29519.0,1689433.0
+Malaysia,MYS,WPR,UMIC,No,,member,32365999.0,639617.0,3702369.0
+Maldives,MDV,SEAR,UMIC,AMC,,member,540544.0,17054.0,33136.0
+Mali,MLI,AFR,LIC,AMC,CSC,member,20250833.0,22785.0,1689827.0
+Malta,MLT,EUR,HIC,No,,member,514564.0,20038.0,126558.0
+Marshall Islands,MHL,WPR,UMIC,AMC,,member,59194.0,4917.0,8449.0
+Mauritania,MRT,AFR,LMIC,AMC,,member,4649658.0,16874.0,523354.0
+Mauritius,MUS,AFR,UMIC,SF,,member,1271768.0,21815.0,243101.0
+Mexico,MEX,AMR,UMIC,SF,,member,128932753.0,1599664.0,15028718.0
+Micronesia,FSM,WPR,LMIC,AMC,,member,115023.0,1184.0,24725.0
+Monaco,MCO,EUR,HIC,SF,,member,39244.0,1980.0,13637.0
+Mongolia,MNG,WPR,LMIC,AMC,,member,3278290.0,39938.0,575815.0
+Montenegro,MNE,EUR,UMIC,SF,,member,628062.0,12905.0,141212.0
+Montserrat,MSR,AMR,Other,,,territory,4999.0,,
+Morocco,MAR,EMR,LMIC,AMC,,member,36910560.0,116863.0,2961430.0
+Mozambique,MOZ,AFR,LIC,AMC,,member,31255435.0,111542.0,2853011.0
+Myanmar,MMR,SEAR,LMIC,AMC,,member,54409800.0,162273.0,5637607.0
+Namibia,NAM,AFR,UMIC,No,,member,2540905.0,19318.0,146909.0
+Nauru,NRU,WPR,HIC,SF,,member,10834.0,218.0,742.0
+Nepal,NPL,SEAR,LMIC,AMC,,member,29136808.0,68798.0,3693158.0
+Netherlands,NLD,EUR,HIC,No,,member,17407585.0,1467661.0,4657170.0
+New Caledonia,NCL,WPR,HIC,,,territory,285498.0,,10240.0
+New Zealand,NZL,WPR,HIC,SF,,member,4822233.0,317226.0,813455.0
+Nicaragua,NIC,AMR,LMIC,AMC,,member,6624554.0,59987.0,599714.0
+Niger,NER,AFR,LIC,AMC,CSC,member,24206644.0,44228.0,2104176.0
+Nigeria,NGA,AFR,LMIC,AMC,CSC,member,206139589.0,1109420.0,20606608.0
+Niue,NIU,WPR,Other,No,,member,1618.0,36.0,286.0
+North Macedonia,MKD,EUR,UMIC,No,,member,2083380.0,45007.0,439420.0
+Norway,NOR,EUR,HIC,No,,member,5367580.0,564302.0,1287072.0
+Oman,OMN,EMR,HIC,SF,,member,5106626.0,99901.0,234088.0
+Pakistan,PAK,EMR,LMIC,AMC,,member,220892340.0,1148724.0,15408512.0
+Palau,PLW,WPR,HIC,SF,,member,18092.0,364.0,1792.0
+Panama,PAN,AMR,UMIC,SF,,member,4314767.0,102528.0,550050.0
+Papua New Guinea,PNG,WPR,LMIC,AMC,CSC,member,8947024.0,14292.0,1646256.0
+Paraguay,PRY,AMR,UMIC,SF,,member,7132538.0,129342.0,729005.0
+Peru,PER,AMR,UMIC,SF,,member,32971854.0,389042.0,4270113.0
+Philippines,PHL,WPR,LMIC,AMC,,member,109581078.0,549858.0,9861907.0
+Poland,POL,EUR,HIC,No,,member,37958138.0,1064293.0,9968194.0
+Portugal,PRT,EUR,HIC,No,,member,10295909.0,461765.0,3034934.0
+Puerto Rico,PRI,AMR,HIC,,,Associate Member,2860853.0,,797015.0
+Qatar,QAT,EMR,HIC,SF,,member,2881053.0,34325.0,115128.0
+Republic of Korea,KOR,WPR,HIC,SF,,member,51269185.0,2080345.0,12394485.0
+Republic of Moldova,MDA,EUR,UMIC,AMC,,member,4033963.0,73288.0,782943.0
+Romania,ROU,EUR,UMIC,No,,member,19328838.0,412908.0,4978849.0
+Russian Federation,RUS,EUR,UMIC,No,,member,145934460.0,5659036.0,33431826.0
+Rwanda,RWA,AFR,LIC,AMC,,member,12952218.0,46465.0,1435495.0
+Saint Helena,SHN,AFR,Other,,,territory,6071.0,,
+Saint Kitts & Nevis,KNA,AMR,HIC,SF,,member,53192.0,2300.0,7642.0
+Saint Lucia,LCA,AMR,UMIC,AMC,,member,183627.0,740.0,19521.0
+Saint Vincent & The Grenadines,VCT,AMR,UMIC,AMC,,member,110940.0,1014.0,16824.0
+Samoa,WSM,WPR,LMIC,AMC,,member,198414.0,880.0,16462.0
+San Marino,SMR,EUR,HIC,SF,,member,33938.0,1697.0,9884.0
+Sao Tome & Principe,STP,AFR,LMIC,AMC,,member,219159.0,2194.0,24448.0
+Saudi Arabia,SAU,EMR,HIC,SF,,member,34813871.0,743145.0,2178076.0
+Senegal,SEN,AFR,LMIC,AMC,CSC,member,16743927.0,65530.0,832868.0
+Serbia,SRB,EUR,UMIC,SF,,member,6926705.0,196066.0,2221992.0
+Seychelles,SYC,AFR,HIC,No,,member,98347.0,1064.0,13376.0
+Sierra Leone,SLE,AFR,LIC,AMC,CSC,member,7976983.0,22983.0,811249.0
+Singapore,SGP,WPR,HIC,SF,,member,5850342.0,146302.0,841189.0
+Sint Maarten,SXM,AMR,HIC,,,territory,42882.0,,
+Slovakia,SVK,EUR,HIC,No,,member,5457873.0,205285.0,1299213.0
+Slovenia,SVN,EUR,HIC,No,,member,2095861.0,70812.0,587043.0
+Solomon Islands,SLB,WPR,LMIC,AMC,CSC,member,686884.0,6031.0,58780.0
+Somalia,SOM,EMR,LIC,AMC,CSC,member,15893222.0,12608.0,1080070.0
+South Africa,ZAF,AFR,UMIC,No,,member,59308690.0,1075564.0,5216144.0
+South Sudan,SSD,AFR,LIC,AMC,CSC,member,11193725.0,58103.0,382809.0
+Spain,ESP,EUR,HIC,No,,member,47332614.0,1663771.0,12528171.0
+Sri Lanka,LKA,SEAR,LMIC,AMC,,member,21413249.0,151758.0,3633139.0
+Sudan,SDN,EMR,LIC,AMC,CSC,member,43849260.0,203322.0,6958106.0
+Suriname,SUR,AMR,UMIC,SF,,member,586632.0,8081.0,66327.0
+Sweden,SWE,EUR,HIC,No,,member,10327589.0,747436.0,2653352.0
+Switzerland,CHE,EUR,HIC,SF,,member,8654618.0,688378.0,2245767.0
+Syria,SYR,EMR,LIC,AMC,CSC,member,17500658.0,189680.0,2003191.0
+Tajikistan,TJK,EUR,LMIC,AMC,,member,9537642.0,90889.0,584617.0
+Tanzania,TZA,AFR,LMIC,AMC,CSC,member,59734218.0,215481.0,2628138.0
+Thailand,THA,SEAR,UMIC,No,,member,69799978.0,683112.0,13962436.0
+Timor-Leste,TLS,SEAR,LMIC,AMC,,member,1318445.0,5719.0,89349.0
+Togo,TGO,AFR,LIC,AMC,,member,8278724.0,44425.0,870455.0
+Tokelau,TKL,WPR,Other,,,Associate Member,1350.0,,
+Tonga,TON,WPR,UMIC,AMC,,member,105695.0,1026.0,6368.0
+Trinidad & Tobago,TTO,AMR,HIC,SF,,member,1399488.0,35448.0,245641.0
+Tunisia,TUN,EMR,LMIC,AMC,,member,11818619.0,103303.0,1652471.0
+Turkey,TUR,EUR,UMIC,No,,member,84339067.0,1446821.0,11453050.0
+Turkmenistan,TKM,EUR,UMIC,No,,member,6031187.0,99117.0,514238.0
+Turks & Caicos Islands,TCA,AMR,HIC,,,territory,38718.0,,
+Tuvalu,TUV,WPR,UMIC,AMC,,member,11792.0,239.0,1171.0
+UAE,ARE,EMR,HIC,SF,,member,9890402.0,152266.0,359920.0
+Uganda,UGA,AFR,LIC,AMC,CSC,member,45741007.0,135373.0,3474185.0
+United Kingdom,GBR,EUR,HIC,SF,,member,67886004.0,4482763.0,16870737.0
+Ukraine,UKR,EUR,LMIC,AMC,,member,43733759.0,1241855.0,10447105.0
+Uruguay,URY,AMR,HIC,SF,,member,3473730.0,138517.0,713402.0
+United States of America,United States of America,AMR,HIC,No,,member,331002651.0,22440534.0,56719945.0
+Uzbekistan,UZB,EUR,LMIC,AMC,,member,33469199.0,840120.0,2925212.0
+Vanuatu,VUT,WPR,LMIC,AMC,,member,307145.0,284.0,27830.0
+Venezuela,VEN,AMR,UMIC,SF,,member,28435940.0,536427.0,3547021.0
+VietNam,VNM,WPR,LMIC,AMC,,member,97338579.0,581985.0,8058818.0
+Wallis & Futuna Islands,WLF,WPR,Other,,,territory,11246.0,,
+West Bank and Gaza,PSE,EMR,LMIC,AMC,,territory,5101414.0,,264251.0
+Yemen,YEM,EMR,LIC,AMC,CSC,member,29825964.0,83935.0,1431744.0
+Zambia,ZMB,AFR,LMIC,AMC,CSC,member,18383955.0,94617.0,1454770.0
+Zimbabwe,ZWE,AFR,LMIC,AMC,,member,14862924.0,51323.0,1429104.0

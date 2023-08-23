@@ -1,0 +1,21 @@
+{
+  "hosting": {
+    "public": ".",
+    "headers": [{
+      "source" : "**",
+      "headers" : [
+        { "key" : "Access-Control-Allow-Origin", "value" : "*" },
+        { "key": "Cache-Control", "value": "no-store, must-revalidate" },
+        { "key": "Expires", "value": "0" }
+      ]
+    }],
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "README.md",
+      ".git",
+      ".gitignore"
+    ]
+  }
+}
